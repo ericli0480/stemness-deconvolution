@@ -30,7 +30,7 @@ library(quadprog)
 library(ggstar)
 
 ui <- fluidPage(
-  title = "MyTitle",
+  title = "Stemness Deconvolution",
   theme = bs_theme(version = 5, bootswatch = "cerulean"),
   
   
