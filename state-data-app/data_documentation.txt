@@ -1,0 +1,3 @@
+Dataset documentations
+
+Social Vulnerability Index: https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html
